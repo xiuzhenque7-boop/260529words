@@ -1,0 +1,6 @@
+{
+  "name": "English Word Dictation",
+  "description": "A smart English word dictation application. Upload photos of word lists or import files to automatically generate phonetic symbols, definitions, and contextual example sentences, supporting complete auditory and visual spelling-practice sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
